@@ -1,0 +1,11 @@
+﻿@model List<DynamicalabsTestApplication.Controllers.HomeController.BaseModel>
+@{
+    ViewData["Title"] = "Uploader";
+}
+
+<div class="container">
+    <form asp-controller="Home" asp-action="UploadFile" method="POST" class="form-horizontal" enctype="multipart/form-data">
+        <input type="file" name="File" id="js-upload-files" accept=".zip,application/zip,application/x-zip,application/x-zip-compressed">
+        <button type="submit" class="btn btn-sm btn-primary" id="js-upload-submit">Send file</button>
+    </form>
+</div> <!-- /container -->

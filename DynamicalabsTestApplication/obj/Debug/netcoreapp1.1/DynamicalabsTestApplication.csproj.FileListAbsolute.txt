@@ -1,0 +1,9 @@
+c:\users\odnostalko\documents\visual studio 2017\Projects\DynamicalabsTestApplication\DynamicalabsTestApplication\bin\Debug\netcoreapp1.1\DynamicalabsTestApplication.deps.json
+c:\users\odnostalko\documents\visual studio 2017\Projects\DynamicalabsTestApplication\DynamicalabsTestApplication\bin\Debug\netcoreapp1.1\DynamicalabsTestApplication.runtimeconfig.json
+c:\users\odnostalko\documents\visual studio 2017\Projects\DynamicalabsTestApplication\DynamicalabsTestApplication\bin\Debug\netcoreapp1.1\DynamicalabsTestApplication.runtimeconfig.dev.json
+c:\users\odnostalko\documents\visual studio 2017\Projects\DynamicalabsTestApplication\DynamicalabsTestApplication\bin\Debug\netcoreapp1.1\DynamicalabsTestApplication.dll
+c:\users\odnostalko\documents\visual studio 2017\Projects\DynamicalabsTestApplication\DynamicalabsTestApplication\bin\Debug\netcoreapp1.1\DynamicalabsTestApplication.pdb
+c:\users\odnostalko\documents\visual studio 2017\Projects\DynamicalabsTestApplication\DynamicalabsTestApplication\obj\Debug\netcoreapp1.1\DynamicalabsTestApplication.csprojResolveAssemblyReference.cache
+c:\users\odnostalko\documents\visual studio 2017\Projects\DynamicalabsTestApplication\DynamicalabsTestApplication\obj\Debug\netcoreapp1.1\DynamicalabsTestApplication.AssemblyInfo.cs
+c:\users\odnostalko\documents\visual studio 2017\Projects\DynamicalabsTestApplication\DynamicalabsTestApplication\obj\Debug\netcoreapp1.1\DynamicalabsTestApplication.dll
+c:\users\odnostalko\documents\visual studio 2017\Projects\DynamicalabsTestApplication\DynamicalabsTestApplication\obj\Debug\netcoreapp1.1\DynamicalabsTestApplication.pdb
